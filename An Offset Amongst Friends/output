@@ -1,0 +1,57 @@
+/lib64/ld-linux-x86-64.so.2
+Tr>q
+puts
+__stack_chk_fail
+__libc_start_main
+__cxa_finalize
+printf
+__isoc99_scanf
+strcmp
+libc.so.6
+GLIBC_2.7
+GLIBC_2.4
+GLIBC_2.2.5
+GLIBC_2.34
+_ITM_deregisterTMCloneTable
+__gmon_start__
+_ITM_registerTMCloneTable
+PTE1
+u+UH
+gmbh|d65H
+42659364H
+2d22b87bH
+fbb939f5H
+54918d~
+vompdl`nH
+`nf`234
+Enter the password: 
+Correct! Here's your flag: %s
+Wrong password! Try again.
+9*3$"
+GCC: (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0
+.shstrtab
+.interp
+.note.gnu.property
+.note.gnu.build-id
+.note.ABI-tag
+.gnu.hash
+.dynsym
+.dynstr
+.gnu.version
+.gnu.version_r
+.rela.dyn
+.rela.plt
+.init
+.plt.got
+.plt.sec
+.text
+.fini
+.rodata
+.eh_frame_hdr
+.eh_frame
+.init_array
+.fini_array
+.dynamic
+.data
+.bss
+.comment
